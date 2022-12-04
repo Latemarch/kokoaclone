@@ -1,0 +1,21 @@
+.more-icons {
+  padding-bottom: 50px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+.suggestions {
+  margin: 10px 0px;
+}
+.suggestions-icons {
+  justify-content: flex-start;
+  margin-top: 20px;
+}
+.suggestions-icons__img {
+  margin-right: 30px;
+}
+.more-component__number {
+  display: flex;
+  align-items: center;
+}
+.more-component__number h6 {
+  margin-right: 10px;
+}
